@@ -2,4 +2,5 @@
 Test repository
 
 G. Greene
-SNHU, 2022
+SNHU
+2022
